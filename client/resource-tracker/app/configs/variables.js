@@ -31,7 +31,16 @@ const Clubs = [
   {label: "Association of Computer Science and Engineering Students",value:"Association of Computer Science and Engineering Students"},
   {label:"Student Association of Information Technology",value:"Student Association of Information Technology"},
   {label: "Google Developer Students' Club",value:"Google Developer Students' Club"},
-  {label: "ACM Student Chapter",value:"ACM Student Chapter"}
+  {label: "ACM Student Chapter",value:"ACM Student Chapter"},
+  {label: "Personality Advancement Circle of Engineers",value:"Personality Advancement Circle of Engineers"},
+  {label: "MESA-MESC",value:"MESA-MESC"},
+  {label: "Civil Engineering Student's Association",value:"Civil Engineering Student's Association"},
+  {label: "Electrical Engineering Students Association",value:"Electrical Engineering Students Association"},
+  {label: "Electronics Engineering Students Association",value:"Electronics Engineering Students Association"},
+  {label: "Art Circle",value:"Art Circle"},
+  {label: "Students' Organization For Technical Activities",value:"Students' Organization For Technical Activities"},
+  {label: "Rotarct",value:"Rotarct"},
+  {label: "Codechef WCE Chapter",value:"Codechef WCE Chapter"},
 ];
 
 const Roles = [
